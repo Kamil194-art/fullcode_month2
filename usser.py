@@ -7,4 +7,5 @@ def check_product(product_name):
         return "Виноград есть в магазине.Цена:80 сом"
     else:
         print("Такого продукта нет")
+        fsdghtrth
 
